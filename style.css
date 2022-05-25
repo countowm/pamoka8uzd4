@@ -1,0 +1,14 @@
+.isorine {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    border: 1px solid black;
+    width: 20%;
+
+  }
+  
+  .vidine {
+    background-color: blue;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
